@@ -52,7 +52,7 @@ The project is built with:
 
 \## Live Deployment
 
-&nbsp;https://github.com/yoofibh/webtech-dlc-frontend.git
+&nbsp;https://yoofibh.github.io/webtech-dlc-frontend/
 
 
 
